@@ -2,8 +2,7 @@
 
 ## Kurzbeschreibung
 
-Dieses Repository ist eine Übung für Git, GitHub, Remote-Repositories und Synchronisation.
-
+Dieses Repository ist eine praktische Übung für Git, GitHub, Remote-Repositories und Synchronisation.
 ## Inhalt des Repositories
 
 - README.md
