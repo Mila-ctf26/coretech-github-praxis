@@ -13,3 +13,4 @@ Dieses Repository ist eine Übung für Git, GitHub, Remote-Repositories und Sync
 ## Erste Nutzung oder Zweck
 
 Das Repository dient zum Üben von Commits, Push, Pull und der Zusammenarbeit mit einem GitHub-Remote-Repository.
+Diese README wurde für die Synchronisationsübung aktualisiert.
