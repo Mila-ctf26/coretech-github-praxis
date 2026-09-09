@@ -2,7 +2,7 @@
 
 ## Kurzbeschreibung
 
-Dieses Repository ist eine Übung für Git, GitHub, Remote-Repositories und Synchronisation.
+Dieses Repository ist eine zentrale Übung für Git, GitHub, Remote-Repositories und Synchronisation.
 
 ## Inhalt des Repositories
 
