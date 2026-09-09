@@ -1,3 +1,4 @@
 Git und Github Praxis Lokales Repositorz mit Remote verbinden.
 
 Synchronisation zwischen lokalem Repository und GitHub getestet.
+Diese Änderung wurde direkt auf GitHub erstellt.
